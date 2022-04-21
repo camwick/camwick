@@ -20,7 +20,14 @@ The beginning of the solve takes a little bit of time due to a heuristic method 
 
 We are currently working on version of this project that will use a WebDriver Browser to read the DOM to get the cell data. This would completely eliminate the awkward calibration time at the start of the solve. 
 
+#### Demos of Minesweeper Solver:
+<details>
+  
 https://user-images.githubusercontent.com/54330525/164355910-9e19a377-a6f9-45ca-a678-fe4425f6bd09.mp4
 
+https://user-images.githubusercontent.com/54330525/164356837-17e0d0dc-17cc-4e4b-866d-710579759d15.mp4
+  
+</details>
+  
 ### My stats
 [![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=camwick&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
