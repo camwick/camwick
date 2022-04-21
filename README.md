@@ -24,6 +24,8 @@ We are currently working on version of this project that will use a WebDriver Br
 <details>
   
 https://user-images.githubusercontent.com/54330525/164355910-9e19a377-a6f9-45ca-a678-fe4425f6bd09.mp4
+  
+https://user-images.githubusercontent.com/54330525/164369222-8d886ac9-b548-4bfd-9533-db043001c854.mp4
 
 https://user-images.githubusercontent.com/54330525/164356837-17e0d0dc-17cc-4e4b-866d-710579759d15.mp4
 
